@@ -1,4 +1,4 @@
-- ?? Hi, I’m @firatgurler10
+- ?? Hi, I’m Firat Gurler
 - ?? I’m interested in VHDL,FPGA,ARTIFICIAL INTELLIGENCE AND IMAGE PROCESSING
 - ?? I’m currently learning STM32F103RB
 - ??? I’m looking to collaborate on ...
