@@ -1,5 +1,5 @@
 # Hi 👋 My name is Fırat Gürler
-# Electric-Electronical Engineering
+# Electric-Electronical Engineering and Software Engineer
 
 👀I’m interested in artificial intelligence 🌱 I’m currently working artificial intelligence, embedded system, data analyze, image process and website design.
 
