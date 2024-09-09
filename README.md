@@ -30,6 +30,7 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
   ![CanvasJS](https://img.shields.io/badge/CanvasJS-E34F26?logo=canvasjs&logoColor=white)
   ![ChartJS](https://img.shields.io/badge/ChartJS-FF6384?logo=chartjs&logoColor=white)
+  ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
